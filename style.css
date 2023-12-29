@@ -1,0 +1,21 @@
+img {
+    border: solid 20px black;
+    border-radius: 150px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li a {
+    text-decoration: none;
+    
+}
+
+body {
+    background-color: green;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
